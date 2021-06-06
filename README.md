@@ -1,14 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Rest form app creating with React, Redux and Redux-Form.
 
-## Available Scripts
+Versions of:
+- node - v14.16.1
+- npm - 6.14.12
 
-In the project directory, you can run:
+
+To start project, in the project directory, you can run:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
+The estimated time of work on the project is 3-4 hours.
